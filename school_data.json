@@ -1,0 +1,13 @@
+{
+  "name" : "My School",
+  "students" : [ {
+    "name" : "Анна",
+    "scores" : {
+      "Англійська" : 75
+    }
+  } ],
+  "subjects" : [ {
+    "name" : "Англійська",
+    "maxScore" : 95
+  } ]
+}
